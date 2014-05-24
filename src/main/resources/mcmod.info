@@ -1,0 +1,16 @@
+[
+{
+  "modid": "wuppy_livemodding",
+  "name": "Amethyst Stuff",
+  "description": "Adds in an amethyst ore, amethyst tools, amethyst armor, and amethyst furnace (soon).",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["Pedro Mendes"],
+  "credits": "Pedro Mendes",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
